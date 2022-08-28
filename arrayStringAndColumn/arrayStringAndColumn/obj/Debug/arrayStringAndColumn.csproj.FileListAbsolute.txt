@@ -1,0 +1,8 @@
+D:\Visual Studio\Project\arrayStringAndColumn\arrayStringAndColumn\bin\Debug\arrayStringAndColumn.exe.config
+D:\Visual Studio\Project\arrayStringAndColumn\arrayStringAndColumn\bin\Debug\arrayStringAndColumn.exe
+D:\Visual Studio\Project\arrayStringAndColumn\arrayStringAndColumn\bin\Debug\arrayStringAndColumn.pdb
+D:\Visual Studio\Project\arrayStringAndColumn\arrayStringAndColumn\obj\Debug\arrayStringAndColumn.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\arrayStringAndColumn\arrayStringAndColumn\obj\Debug\arrayStringAndColumn.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Project\arrayStringAndColumn\arrayStringAndColumn\obj\Debug\arrayStringAndColumn.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\arrayStringAndColumn\arrayStringAndColumn\obj\Debug\arrayStringAndColumn.exe
+D:\Visual Studio\Project\arrayStringAndColumn\arrayStringAndColumn\obj\Debug\arrayStringAndColumn.pdb
